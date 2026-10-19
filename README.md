@@ -1,5 +1,5 @@
 # Olá, eu sou o Guilherme Billig 👋
-### Hi, I'm Guilherme Billig
+### Oi, eu sou o Guilherme Billig
 
 Desenvolvedor **Full Stack Pleno** com mais de **10 anos** em desenvolvimento web (desde 2014).  
 Mid-level **Full Stack Developer** with **10+ years** in web development (since 2014).
